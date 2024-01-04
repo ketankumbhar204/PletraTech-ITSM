@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph>child</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Contact Support to Get Help</short_description>
+        <size>md</size>
+        <sp_column display_value="3">a3a3a1a447a77d105021cc88f36d4306</sp_column>
+        <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-01 19:36:12</sys_created_on>
+        <sys_id>d2c9e3dc47af3d105021cc88f36d43e0</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Get Help</sys_name>
+        <sys_package display_value="PletraTechITSM" source="0e052b1847af3d105021cc88f36d43f3">0e052b1847af3d105021cc88f36d43f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PletraTechITSM">0e052b1847af3d105021cc88f36d43f3</sys_scope>
+        <sys_update_name>sp_instance_link_d2c9e3dc47af3d105021cc88f36d43e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 04:28:58</sys_updated_on>
+        <title>Get Help</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=d2c9e3dc47af3d105021cc88f36d43e0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PletraTechITSM">0e052b1847af3d105021cc88f36d43f3</application>
+        <file_path/>
+        <instance_id>5b92b60adb6bc99c42b321c4059619e5</instance_id>
+        <instance_name>dev128263</instance_name>
+        <name>sp_instance_link_d2c9e3dc47af3d105021cc88f36d43e0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;primary&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;child&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Contact Support to Get Help&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;a3a3a1a447a77d105021cc88f36d4306&lt;/sp_column&gt;&lt;sp_page display_value="sc_category"&gt;07261a2147132100ba13a5554ee49092&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-01-01 19:36:12&lt;/sys_created_on&gt;&lt;sys_id&gt;d2c9e3dc47af3d105021cc88f36d43e0&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Get Help&lt;/sys_name&gt;&lt;sys_package display_value="PletraTechITSM" source="0e052b1847af3d105021cc88f36d43f3"&gt;0e052b1847af3d105021cc88f36d43f3&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="PletraTechITSM"&gt;0e052b1847af3d105021cc88f36d43f3&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_d2c9e3dc47af3d105021cc88f36d43e0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-01-02 04:28:58&lt;/sys_updated_on&gt;&lt;title&gt;Get Help&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d2c9e3dc47af3d105021cc88f36d43e0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2127360334</payload_hash>
+        <record_name>Get Help</record_name>
+        <reverted_from/>
+        <source>a04c2b9047ef3d105021cc88f36d4345</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 04:28:58</sys_created_on>
+        <sys_id>2eb3e1a447a77d105021cc88f36d431c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18cc86e8ff70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 04:28:58</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>a2b3e1a43aa77d1080cfe5fb915f351c</update_guid>
+        <update_guid_history>a2b3e1a43aa77d1080cfe5fb915f351c:-2127360334,aeb3e1a46da77d1066fc8b0a206dfe12:1776397467,b5b3a1a41aa77d1019fd34e6541027da:-2127360334,d8b3a1a44fa77d1019a4d0e0931c0457:1776397467,63da6bdc0daf3d1061150a7b4409c2a0:-868456985,5cdaa7dcdcaf3d10287e17636664a23b:-78998105,5ac9e3dcc5af3d10b44cf0c52850e8e1:-545859193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Get Help">a3b3e1a447a77d105021cc88f36d438b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-02 04:29:02</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>255f1f2e29504aa298fe47f430aa83c1</sys_id>
+        <sys_metadata>d2c9e3dc47af3d105021cc88f36d43e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Help</sys_name>
+        <sys_package display_value="PletraTechITSM" source="0e052b1847af3d105021cc88f36d43f3">0e052b1847af3d105021cc88f36d43f3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PletraTechITSM">0e052b1847af3d105021cc88f36d43f3</sys_scope>
+        <sys_scope_delete display_value="">6abbfcafc201431eb6436dab493ce4f9</sys_scope_delete>
+        <sys_update_name>sp_instance_link_d2c9e3dc47af3d105021cc88f36d43e0</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_d2c9e3dc47af3d105021cc88f36d43e0">2eb3e1a447a77d105021cc88f36d431c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-02 04:29:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
